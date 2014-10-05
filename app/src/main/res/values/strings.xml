@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">I Dare You</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="name_of_user">Name</string>
+    <string name="title_activity_dash">DashActivity</string>
+    <string name="add">+</string>
+    <string name="title_activity_add_challenge">AddChallengeActivity</string>
+    <string name="prompt_description">Description</string>
+    <string name="prompt_points">Points to be Awarded</string>
+    <string name="title_activity_show_challenge">ShowChallengeActivity</string>
+    <string name="custom">Custom</string>
+
+
+</resources>
